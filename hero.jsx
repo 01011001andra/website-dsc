@@ -3,3 +3,4 @@
 // bikin fitur weather menjadi lebih menarik
 // menambah fitur jam di hero
 // nambah fitu lain di hero
+// thankyou
